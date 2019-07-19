@@ -1,0 +1,9 @@
+var DATA_ADDRESS_TAG ="地址位";
+var DATA_GROUP_TAG = "名称";
+var DATA_TYPE_TAG = "数据类型";
+var DATA_VAL_TAG = "数据值";
+var DATA_QUALITY_TAG = "Quailty";
+var DATA_UPDATA_CNT_TAG = "更新次数";
+var DATA_MAIN_TOOL_TAG ="主设备";
+var DATA_UNIT_TOOL_TAG = "子设备";
+var UPDATE_TIMESTAMP_TAG = "更新时间";
